@@ -1,0 +1,47 @@
+Optional Practice Quiz
+TOTAL POINTS 2
+
+1.Question 1
+Without applying any additional styles, the following code snippet will show up in the browser as how many lines of text? (Assume the browser is stretched wide enough not to cause any single line to wrap)
+
+
+1 / 1 point
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+7
+
+
+9
+
+
+10
+
+Correct
+
+2.Question 2
+Identify invalid HTML code snippet (assume code above and below this code is valid)
+
+1 / 1 point
+
+
+
+
+
+
+
+All are valid!
+
+Correct
+This is invalid because 'span', which is an inline element, can NOT contain a 'div', which is a block-level element.
+
